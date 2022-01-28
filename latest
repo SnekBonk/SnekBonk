@@ -1,0 +1,51 @@
+[28Jan2022 00:08:03.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BootyCuit has made the advancement ["Salvage"]
+[28Jan2022 00:08:07.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: QcFighter117 has made the advancement [Deep Extraction]
+[28Jan2022 00:08:28.869] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BootyCuit has made the advancement [Deep Extraction]
+[28Jan2022 00:19:40.970] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: BootyCuit lost connection: Disconnected
+[28Jan2022 00:19:40.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: BootyCuit left the game
+[28Jan2022 00:21:40.620] [Server thread/INFO] [FTB Utilities Backups/]: Server Backup started!
+[28Jan2022 00:21:40.622] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server Backup started!
+[28Jan2022 00:21:40.805] [Thread-246/INFO] [FTB Utilities Backups/]: Deleting old backup: 2022-01-26-07-23-11.zip
+[28Jan2022 00:21:40.809] [Thread-246/INFO] [FTB Utilities Backups/]: Backing up 329 files...
+[28Jan2022 00:21:40.810] [Thread-246/INFO] [FTB Utilities Backups/]: Compressing 329 files...
+[28Jan2022 00:21:40.822] [Server thread/INFO] [FTB Utilities Backups/]: [0 | 0%]: world\advancements\0f0b67ef-2087-45ef-b670-6ec1b7d355d0.json
+[28Jan2022 00:21:51.916] [Thread-246/INFO] [FTB Utilities Backups/]: Done compressing in 00:11 seconds (312.8MB)!
+[28Jan2022 00:21:51.916] [Thread-246/INFO] [FTB Utilities Backups/]: Created C:\Users\Snek\Desktop\Valhelsia_3-3.4.9-SERVER\backups\2022-01-28-00-21-40.zip from C:\Users\Snek\Desktop\Valhelsia_3-3.4.9-SERVER\world
+[28Jan2022 00:21:51.918] [Thread-246/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Server backup done in 00:11! (312.8MB | 2.5GB)
+[28Jan2022 00:40:57.571] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: QcFighter117 lost connection: Disconnected
+[28Jan2022 00:40:57.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: QcFighter117 left the game
+[28Jan2022 00:41:12.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[28Jan2022 00:41:12.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[28Jan2022 00:41:12.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[28Jan2022 00:41:12.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[28Jan2022 00:41:12.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[28Jan2022 00:41:12.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2022 00:41:12.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[28Jan2022 00:41:12.919] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2022 00:41:12.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[28Jan2022 00:41:12.921] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2022 00:41:12.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/bloodmagic:dungeon
+[28Jan2022 00:41:12.922] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[28Jan2022 00:41:12.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[28Jan2022 00:41:12.923] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[28Jan2022 00:41:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilightforest
+[28Jan2022 00:41:12.929] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[28Jan2022 00:41:12.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/atum:atum
+[28Jan2022 00:41:12.930] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[28Jan2022 00:41:12.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:skylight_forest
+[28Jan2022 00:41:12.931] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[28Jan2022 00:41:12.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[28Jan2022 00:41:12.934] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[28Jan2022 00:41:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mythicbotany:alfheim
+[28Jan2022 00:41:12.935] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[28Jan2022 00:41:13.102] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[28Jan2022 00:41:13.141] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[28Jan2022 00:41:13.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[28Jan2022 00:41:13.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (dungeon): All chunks are saved
+[28Jan2022 00:41:13.143] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[28Jan2022 00:41:13.145] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[28Jan2022 00:41:13.152] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (atum): All chunks are saved
+[28Jan2022 00:41:13.152] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[28Jan2022 00:41:13.153] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[28Jan2022 00:41:13.155] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (alfheim): All chunks are saved
+[28Jan2022 00:41:13.163] [Server thread/INFO] [FluxNetworks/]: FluxNetworkData has been unloaded
